@@ -1,5 +1,4 @@
 # :rat: Componentes de una red
----
 ## :cactus: Host
 Todas las computadoras conecadas a una red son categorizadas como host, algunos host son llamados clientes.
 >El termino host se refiere a los dispositivos de una red que tienen asignados un numero (IP).
@@ -13,7 +12,6 @@ Los **Servidores** son computadores que proporcionan informacion, cada servicio 
 - Correo electronico
 - Web
 - Archivo
----
 ## :cactus: Peer to peer 
 Es posible usar una computadora con ambos roles de  cliente y servidor.
 
@@ -28,7 +26,6 @@ Es posible usar una computadora con ambos roles de  cliente y servidor.
 - No seguras
 - No escalables
 - Todos los dispositivos como cliente y servidor, lo que lentifica el rendimiento.
----
 
 ## :cactus: Dispositivos Finales
 Cada dispositivo final tiene una direccion, un terminal es el origen o destino de un mensaje
